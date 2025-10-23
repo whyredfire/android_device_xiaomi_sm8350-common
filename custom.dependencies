@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "PixelOS-Devices/android_kernel_xiaomi_sm8350",
+    "target_path": "kernel/xiaomi/sm8350"
+  },
+  {
+    "repository": "PixelOS-AOSP/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+  },
+  {
+    "repository": "NoPrincessHere/proprietary_vendor_xiaomi_sm8350-common",
+    "target_path": "vendor/xiaomi/sm8350-common",
+    "remote": "gitlab"
+  }
+]
